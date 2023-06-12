@@ -22,3 +22,15 @@ New Terms:
 * WIP (Work in Progress): The work that has been started but not yet completed
 * Growth Mindset: The mindset that an individual's abilities can grow through dedication and hard work
 * Systems Thinking: A holistic approach that looks at the way a system's components interrelate and influence each other and how these components come together within the context of larger systems to deliver a solution
+
+
+#### The Agile Mindset
+When we talk about an Agile Mindset, we include:
+
+Respect
+Collaboration
+Continuous Improvement
+Iterative Learning Cycles
+Mastery and Ownership
+Focus on Delivering Value
+Adaptability to Change
