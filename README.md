@@ -21,7 +21,10 @@ New Terms:
 * VUCA: Volatility, Uncertainty, Complexity, Ambiguity
 * WIP (Work in Progress): The work that has been started but not yet completed
 * Growth Mindset: The mindset that an individual's abilities can grow through dedication and hard work
-* Systems Thinking: A holistic approach that looks at the way a system's components interrelate and influence each other and how these components come together within the context of larger systems to deliver a solution
+* Systems Thinking: A holistic approach that looks at the way a system's components interrelate and influence each other and how these components come together within the context of larger systems to deliver a solution.
+* Agile Manifesto: The four paired Core Values and associated 12 Principles that set the foundation for all Agile Frameworks
+* Agile Principles: Practical guidance for teams to adopt Agile
+* Four Paired Core Values: The part of the Agile Manifesto that defines the values that establishes what Agile is for teams and organizations
 
 
 #### The Agile Mindset
