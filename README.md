@@ -37,3 +37,12 @@ Iterative Learning Cycles
 Mastery and Ownership
 Focus on Delivering Value
 Adaptability to Change
+
+
+#### The 4 Agile Core Values
+These were developed by 17 industry experts and finalized in 2001. They are:
+
+1. Individuals and interactions over processes and tools: Agile places more importance and emphasis on people and their interactions over processes and even tools.
+2. Working software over comprehensive documentation: Documentation requires a time and resource commitment that might be wasteful.
+3. Customer collaboration over contract negotiation: Agile promotes a collaborative outlook when product owners work with their customers in reaching an agreement on the details of the product delivery.
+4. Responding to changes over following a plan: 
