@@ -28,6 +28,9 @@ New Terms:
 * Agile Manifesto: The four paired Core Values and associated 12 Principles that set the foundation for all Agile Frameworks
 * Agile Principles: Practical guidance for teams to adopt Agile
 * Four Paired Core Values: The part of the Agile Manifesto that defines the values that establishes what Agile is for teams and organizations
+* *Incremental Product Delivery:* An approach that utilizes a given number of steps, which go from start to finish following a linear path of progression
+* *Iterative Product Delivery:* An approach where product development is broken into sequences of time-boxed, repeated cycles called iterations
+* *Sequential Product Delivery:* A process where a defined sequence of steps must be followed as in the Waterfall approach
 
 
 #### The Agile Mindset
@@ -69,5 +72,15 @@ The Agile Manifesto’s 4 paired core values drive the 12 Agile Principles. Let'
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. Finding concrete opportunities for improvement is a continual effort.
 
 ####
+## Stacey Diagram: 
+Describes in what scenario the agile methodology works and when it is useless. 
+
+##### Conditions Where Agile May Not Be Helpful:
+* Lack of agreement in terms of requirements and process
+* No vision and no clear roadmap
+* Near certainty on requirements and process upfront
+##### Conditions Where Agile Works Best:
+* An environment of complexity and some uncertainty where an adaptive approach is needed
+* With complicated requirements that need iterative cycles to understand the needs of end-users
 
 
