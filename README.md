@@ -25,6 +25,9 @@ New Terms:
 * Agile Manifesto: The four paired Core Values and associated 12 Principles that set the foundation for all Agile Frameworks
 * Agile Principles: Practical guidance for teams to adopt Agile
 * Four Paired Core Values: The part of the Agile Manifesto that defines the values that establishes what Agile is for teams and organizations
+* Agile Manifesto: The four paired Core Values and associated 12 Principles that set the foundation for all Agile Frameworks
+* Agile Principles: Practical guidance for teams to adopt Agile
+* Four Paired Core Values: The part of the Agile Manifesto that defines the values that establishes what Agile is for teams and organizations
 
 
 #### The Agile Mindset
@@ -64,4 +67,7 @@ The Agile Manifesto’s 4 paired core values drive the 12 Agile Principles. Let'
 10. Simplicity - the art of maximizing the amount of work not done - is essential. With the guidance of the Product Owner, Agile Teams focus on high-value activities, which allows them to focus on the high business value needs.
 11. The best architectures, requirements, and designs emerge from self-organizing teams. This is a critical principle of the agile world to ensure that emerging and effective architectures, requirements, and designs are built into the product development life cycle to maximize technical excellence.
 12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. Finding concrete opportunities for improvement is a continual effort.
+
+####
+
 
