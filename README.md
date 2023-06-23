@@ -1,14 +1,13 @@
 # Agile-Developement
 
 
-
-##### Why are organisations adopting agile
+##### Why are organizations adopting agile
 1. Volatility 
-2. Uncertainity
+2. Uncertainty
 3. Complexity
-4. Ambuiguity 
+4. Ambiguity 
 
-Abbreviated term VUCA. 
+The abbreviated term VUCA. 
 
 ##### Organizations that go through Agile transformation have also benefited from:
 Build the right products
@@ -83,4 +82,8 @@ Describes in what scenario the agile methodology works and when it is useless.
 * An environment of complexity and some uncertainty where an adaptive approach is needed
 * With complicated requirements that need iterative cycles to understand the needs of end-users
 
+### Build & Evolve Agile Teams 
 
+#### New Terms
+1. Innovation Hub: Proactively working towards continual improvement with no comprise on technical excellence and quality.
+2. Self-Organized: The team determines tasks and makes technical decisions about the work to be done after being given priorities by the Product Owner.
