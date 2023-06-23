@@ -87,3 +87,8 @@ Describes in what scenario the agile methodology works and when it is useless.
 #### New Terms
 1. Innovation Hub: Proactively working towards continual improvement with no comprise on technical excellence and quality.
 2. Self-Organized: The team determines tasks and makes technical decisions about the work to be done after being given priorities by the Product Owner.
+3. Adjourning: The stage in the Tuckman Model where the Agile team’s goals have been completed, and the focus is on wrapping things up before team members get reassigned to other work
+4. Forming: The stage in the Tuckman Model when the team is getting accustomed to each other, ground rules are being established, and everyone is informed of the goals and objectives
+5. Norming: The stage in the Tuckman Model where a sense of trust develops among team members; interpersonal differences are taken care of now, and a sense of collaboration for the team's collective benefit arises
+6. Performing: The stage in the Tuckman Model where the team has matured into a well-established unit with a sharp focus on collaborative value delivery
+7. Storming: The stage in the Tuckman model where the team goes through a level of chaos in which there is confusion around the goals and objectives of the project, as well as confusion around roles and responsibilities
