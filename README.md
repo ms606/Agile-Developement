@@ -92,3 +92,21 @@ Describes in what scenario the agile methodology works and when it is useless.
 5. Norming: The stage in the Tuckman Model where a sense of trust develops among team members; interpersonal differences are taken care of now, and a sense of collaboration for the team's collective benefit arises
 6. Performing: The stage in the Tuckman Model where the team has matured into a well-established unit with a sharp focus on collaborative value delivery
 7. Storming: The stage in the Tuckman model where the team goes through a level of chaos in which there is confusion around the goals and objectives of the project, as well as confusion around roles and responsibilities
+
+### Why do agile teams matter? 
+##### Agile Teams are a critical vehicle to deliver valuable results because of the following:
+1. Focus on Value - Agile is driven by the goal of delivering maximum business value that is aligned with the organization’s vision.
+2. Self-Organized Teams - Agile Teams have the autonomy to make some de-centralized decisions, which allows for shared ownership of the work.
+3. Constructive Conflict Resolution - Conflicts in Agile Teams are constructively resolved because the team is driven by a shared vision.
+4. Innovation Hub - Agile Teams, with diverse and cross-functional skill sets, are an innovation hub that spurs solutions.
+5. Cultivate Mastery - Time is put aside in Agile Teams for learning and growth. This allows Agile Team members to sharpen their skills.
+
+##### Tuckman Model 
+The Tuckman Model, which has 5 stages of team development, describes how an Agile team progresses into an awesome Agile squad.
+
+**Forming** - Agile Team comes together and the Facilitator helps the team form by explaining the ground rules, product vision, and expected outcomes.
+**Storming** - This is where a team’s velocity is impacted because there tends to be some confusion and ambiguity around the work to be done, roles, and other product-related questions.
+**Norming** - Agile Team members develop a sense of trust and camaraderie. There’s a healthy rapport and each team member starts to look for the collective objectives of the team’s long-term success.
+**Performing** - Once an Agile Team has successfully worked together over a few iterations they should be in a state where they have gelled together and developed a strong cross-functional work style.
+**Adjourning** - If the business leaders realize that a product is not delivering value or is no longer needed in the market, the existing Agile Team members can be re-allocated to other more valuable work in the organization.
+
