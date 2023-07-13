@@ -30,6 +30,12 @@ New Terms:
 * *Incremental Product Delivery:* An approach that utilizes a given number of steps, which go from start to finish following a linear path of progression
 * *Iterative Product Delivery:* An approach where product development is broken into sequences of time-boxed, repeated cycles called iterations
 * *Sequential Product Delivery:* A process where a defined sequence of steps must be followed as in the Waterfall approach
+* *Scrum:* Scrum is one of the most popular Agile frameworks for developing complex products, with an emphasis on value delivery
+* *Scrum Pillars:* Transparency, Inspection, Adaptation
+* *Scrum Values:* Focus, Courage, Openness, Commitment, Respect
+* *Sprint:* A Sprint in Scrum is a repeatable fixed time-box iteration during which a minimum shippable product is delivered.
+* 
+
 
 
 #### The Agile Mindset
