@@ -34,7 +34,19 @@ New Terms:
 * *Scrum Pillars:* Transparency, Inspection, Adaptation
 * *Scrum Values:* Focus, Courage, Openness, Commitment, Respect
 * *Sprint:* A Sprint in Scrum is a repeatable fixed time-box iteration during which a minimum shippable product is delivered.
-* 
+* *Burndown Chart:* A visual representation of work left to do versus time in an iteration
+* *Burnup Chart:* A visual representation of work completed versus time in an iteration
+* *Ceremonies:* Meetings that are leveraged to ultimately ensure that everyone associated with the project is in-sync
+* *Daily Stand Up:* A ceremony to create a short term plan for the next 24 hours
+* *Definition of Done:* The agreed-upon deliverables that must be completed before a user story can be completed
+* *Product Backlog:* A prioritized list of Features that an Agile team needs to work on to achieve a specific outcome
+* *Product Increment:* The collection of backlog items to be completed during an iteration
+* *Project Vision Ceremony:* A ceremony is where the business leaders identify the business need the project’s product deliverable is intended to achieve; the agenda is to discuss the project goals
+* *Release Planning Ceremony:* A ceremony where the Agile Team develops a Release Plan that defines when a collection of functionality will be delivered to the customer base
+* *Sprint Backlog:* The prioritized items that the PO has designated for the Sprint
+* *Sprint Planning Ceremony:* A ceremony is where the Agile Team self-organizes and plans out the work that has been prioritized by the Product Owner
+* *Sprint Review/Demo:* A ceremony where the Agile Team demonstrates the Sprint’s incremental work to the Product Owner, as well as possibly other business representatives
+* *Velocity Chart:* A chart that shows what the team has delivered in each iteration
 
 
 
