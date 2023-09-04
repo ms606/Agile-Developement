@@ -127,4 +127,4 @@ The Tuckman Model, which has 5 stages of team development, describes how an Agil
 3. **Norming** - Agile Team members develop a sense of trust and camaraderie. There’s a healthy rapport and each team member starts to look for the collective objectives of the team’s long-term success.
 4. **Performing** - Once an Agile Team has successfully worked together over a few iterations they should be in a state where they have gelled together and developed a strong cross-functional work style.
 5. **Adjourning** - If the business leaders realize that a product is not delivering value or is no longer needed in the market, the existing Agile Team members can be re-allocated to other more valuable work in the organization.
-
+6. 
